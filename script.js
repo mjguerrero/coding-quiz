@@ -111,28 +111,28 @@
       answers: {
         a: "Europe",
         b: "Center America",
-        c: "Autralia",
-        d: "South America"
+        c: "South America",
+        d: "Autralia"
       },
-      correctAnswer: "d"
+      correctAnswer: "c"
     },
     {
       question: "What is the capital of USA?",
       answers: {
-        a: "Miami",
-        b: "Washington, DC",
+        a: "Washington, DC",
+        b: "Miami",
         c: "LA",
         d: "Chicago"
       },
-      correctAnswer: "b"
+      correctAnswer: "a"
     },
     {
       question: "What does Kohler Sales?",
       answers: {
         a: "Cloth",
         b: "Pens",
-        c: "Plumming",
-        d: "Computers"
+        c: "Computers",
+        d: "Pluming"
       },
       correctAnswer: "d"
     }
