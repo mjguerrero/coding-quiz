@@ -107,32 +107,32 @@
   const submitButton = document.getElementById('submit');
   const myQuestions = [
     {
-      question: "Who is the President of United States of America?",
+      question: "Where is Venezuela locaded?",
       answers: {
-        a: "Donald Trump",
-        b: "Kamala Harris",
-        c: "Joe Biden",
-        d: "Barack Obama"
+        a: "Europe",
+        b: "Center America",
+        c: "Autralia",
+        d: "South America"
       },
-      correctAnswer: "c"
+      correctAnswer: "d"
     },
     {
-      question: "Which one of these is/was a Baseball Player?",
+      question: "What is the capital of USA?",
       answers: {
-        a: "Babe Ruth",
-        b: "Shaquille Oneal",
-        c: "Tom Brady",
-        d: "Michael Jordan"
+        a: "Miami",
+        b: "Washington, DC",
+        c: "LA",
+        d: "Chicago"
       },
-      correctAnswer: "a"
+      correctAnswer: "b"
     },
     {
-      question: "Which tool can you use to create a Webpage?",
+      question: "What does Kohler Sales?",
       answers: {
-        a: "Word",
-        b: "Access",
-        c: "Excel",
-        d: "HTML"
+        a: "Cloth",
+        b: "Pens",
+        c: "Plumming",
+        d: "Computers"
       },
       correctAnswer: "d"
     }
