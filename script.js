@@ -107,7 +107,7 @@
   const submitButton = document.getElementById('submit');
   const myQuestions = [
     {
-      question: "Where is Venezuela locaded?",
+      question: "Where is Venezuela located?",
       answers: {
         a: "Europe",
         b: "Center America",
@@ -132,7 +132,7 @@
         a: "Cloth",
         b: "Pens",
         c: "Computers",
-        d: "Pluming"
+        d: "Plumbing"
       },
       correctAnswer: "d"
     }
